@@ -179,7 +179,7 @@ sendmessage(msg.chat_id,"Done \n action(AddAll "..matches..")👥")
 					db:set("IDidchannel",matches)
 					     sendmessage(msg.chat_id,"Done \n action(Set channel id to "..matches..")🔑")
 				elseif text=="help" then 
-     sendmessage(msg.chat_id,"link")
+     sendmessage(msg.chat_id,"https://t.me/Sin_Chi/766")
 				elseif text=="panel" then 
        sendmessage(msg.chat_id,"SuperGps :"..(db:scard("gpsID") or 0).."\n Channel:"..(db:get("IDidchannel") or 0).."\n UsedLinks : "..(db:scard("IDestefade") or 0))
 							end	
