@@ -2,7 +2,7 @@
 `git clone https://github.com/SinaXhpm/sin-chi && chmod +x install.sh && ./install.sh`
 
 # CReAtE BoT
-./create.sh 
+enter ./create.sh command
 and
 put Phone Number then
 WAit to show " Code: " and enter code
