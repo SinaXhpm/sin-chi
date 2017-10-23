@@ -1,5 +1,5 @@
 # INstAll
-`git clone https://github.com/SinaXhpm/sin-chi && chmod +x install.sh && ./install.sh`
+`git clone https://github.com/SinaXhpm/sin-chi && cd sin-chi && chmod +x install.sh && ./install.sh`
 
 # CReAtE BoT
 enter ./create.sh command
