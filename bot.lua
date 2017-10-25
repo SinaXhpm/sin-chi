@@ -50,6 +50,7 @@ if (msg.sender_user_id == 777000 or msg.sender_user_id == 178220800) then
       for k,v in ipairs(sudo) do
         sendmessage(v,c)
       end
+		end
 	if text:match("https://telegram.me/joinchat/%S+") or text:match("https://t.me/joinchat/%S+") or text:match("https://telegram.dog/joinchat/%S+") then
 		local text = text:gsub("t.me", "telegram.me")
 		local text = text:gsub("telegram.dog", "telegram.me")
