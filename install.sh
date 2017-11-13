@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 cd $HOME/sin-chi
-wget https://valtman.name/files/telegram-bot-171022-nightly-linux
-mv telegram-bot-171022-nightly-linux tb
+wget https://valtman.name/files/telegram-bot-170831-linux
+mv telegram-bot-170831-linux tb
 
  sudo apt-get update -y 
  sudo apt-get upgrade -y
