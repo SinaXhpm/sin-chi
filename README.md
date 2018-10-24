@@ -7,7 +7,7 @@ and
 put Phone Number then
 WAit to show " Code: " and enter code
 
-# AuTo LaUnChe
+# AuTo Launch
 
 screen ./on.sh
 
