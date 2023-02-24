@@ -15,4 +15,4 @@ screen ./on.sh
 
 created with telegram-bot (cli - New Version)  (valtman)
 
- Channel : @Sin_Chi
+ Channel : @the_pink_palace
